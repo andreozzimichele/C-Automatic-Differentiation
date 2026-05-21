@@ -1,4 +1,4 @@
-# C++ Reverse-Mode Automatic Differentiation Engine
+# C++ Automatic Differentiation Engine
 
 A simple, C++ header-only library for both Forward and Reverse-Mode Automatic Differentiation. Designed for educational purposes and raw execution speed, this engine implements a Dual Number (operator overloading) for forward mode, and Computational-Graph architecture for reverse mode to dynamically compute gradients for mathematical models.
 

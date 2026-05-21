@@ -1,2 +1,5 @@
 # compiled binaries
 *.o
+
+# Cache files
+*.cache
